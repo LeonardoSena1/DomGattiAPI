@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dev.Exec": {
+      "commandName": "Project",
+      "commandLineArgs": "Product"
+    }
+  }
+}
